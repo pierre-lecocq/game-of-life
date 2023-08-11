@@ -14,3 +14,5 @@ options:
   -s size, --size size  size of a cell in pixels
   -g gap, --gap gap     gap between cells in pixels
 ```
+
+![Demo](./demo.gif)
